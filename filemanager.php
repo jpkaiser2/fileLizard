@@ -6,12 +6,12 @@
 </head>
 
 <center>
-<img src="logo.png" width="15%">
+<img src="Assets/logo.png" width="15%">
 </center>
 
-<object class="toolBtn" data="pen-to-square-regular.svg" width="20px" height="20px" type="image/svg+xml"></object>
-<object class="toolBtn" onclick="deleteFiles()" data="trash-solid.svg" width="20px" height="20px" type="image/svg+xml"></object>
-<object class="toolBtn" data="download.svg" width="20px" height="20px" type="image/svg+xml"></object>
+<object class="toolBtn" data="Assets/pen-to-square-regular.svg" width="20px" height="20px" type="image/svg+xml"></object>
+<object class="toolBtn" onclick="deleteFiles()" data="Assets/trash-solid.svg" width="20px" height="20px" type="image/svg+xml"></object>
+<object class="toolBtn" data="Assets/download.svg" width="20px" height="20px" type="image/svg+xml"></object>
 
 
 
