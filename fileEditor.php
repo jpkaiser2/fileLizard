@@ -7,7 +7,7 @@
 
 <body>
     <center><h1 class="editingMsg">Editing File "<?php echo htmlspecialchars($_GET['file']) ?>"</h1></center>
-    <pre><code id="code" class="language-<?php echo htmlspecialchars($_GET['lan']) ?>" contentEditable="true" spellcheck="false"></code></pre>
+    <pre><code id="code" class="language-<?php echo htmlspecialchars($_GET['type']) ?>" contentEditable="true" spellcheck="false"></code></pre>
 </body>
 
 </html>
