@@ -7,7 +7,7 @@ A simple JS & PHP Open Source file manager for your projects.
 
 <h1>NOT FINISHED YET</h1>
 
-#Setup
+<h2>Setup</h2>
 Before configuring fileLizard on your server, make sure you have the proper permissions. The parent directories of the install location and the website contents should have read, write, and excecute privilages. On Ubuntu Server, simply run 
 
 ```
